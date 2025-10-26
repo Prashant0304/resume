@@ -488,3 +488,16 @@ span{
 .contact form textarea {
     height: 15rem;
 }
+
+
+.button-group {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.button-group .btn {
+  text-align: center;
+}
